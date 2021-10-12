@@ -1,6 +1,6 @@
 Hi, this is an example
 
-### Name: [Aakash Sangwan](https://github.com/Aakash2408)
-- Place: Charkhi Dadri, Haryana, India
-- Bio: 2nd Year CSE undergraduate
-- GitHub: [Aakash2408](https://github.com/Aakash2408)
+### Name: [Mayank Kushwah](https://github.com/makarov4747)
+- Place: Poland,India
+- Bio: 23rd Year EE undergraduate
+- GitHub: [Dani4747](https://github.com/makarov4747)
